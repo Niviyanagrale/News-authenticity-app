@@ -42,7 +42,7 @@ main.py
 model.pkl
 vectorizer.pkl
 
-# note
+* note
 
 This project was developed as a learning and experimentation project to practice machine learning concepts
 and demonstrate how NLP models can be integrated into a simple web application.
